@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 # application.properties ignore
-src/main/resources/application.properties
+application.properties
 
 ### STS ###
 .apt_generated
